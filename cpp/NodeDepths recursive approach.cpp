@@ -34,11 +34,14 @@ int main(){
 	a->right->right = new BinaryTree(7);
 	a->left->left->left = new BinaryTree(8);
 	a->left->left->right = new BinaryTree(9);
+
+	BinaryTree *c = a;
+
 	
 
 
 
-	int b = nodeDepths(a);
+	int b = nodeDepths(c);
 	cout << b;
 
 	return 0;
