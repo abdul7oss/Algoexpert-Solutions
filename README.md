@@ -1,4 +1,5 @@
 # Algoexpert Solutions
- # Binary Trees
- #Branch Sums;
-#NodeDepth;
+
+# Binary Trees:
+Branch Sums
+Node Depth
